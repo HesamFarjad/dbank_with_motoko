@@ -1,4 +1,4 @@
-# motoko-dbank
+
 Interactive Motoko-based DFX project with Candid UI integration
 
 
