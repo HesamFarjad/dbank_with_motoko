@@ -148,7 +148,9 @@ The diagram below illustrates how orthogonal persistence works in the Internet C
 The implementation of a `compound()` function in Motoko, which simulates compound interest over time.
 
 It uses `Time.now()` to calculate the time elapsed since the last update, and applies a growth formula:  
-<img width="1238" alt="Screenshot 2025-06-22 at 18 56 35" src="https://github.com/user-attachments/assets/bc332103-d61d-4fd4-a3fd-40b1e15e582f" />
+
+<img width="1238" alt="Screenshot 2025-06-22 at 18 56 35" src="https://github.com/user-attachments/assets/e66fdbf9-d4d7-49cc-95ac-3e530677b5fe" />
+
 
 The adjacent diagrams help visualize the concept of reinvestment and the mathematical formula for compound interest.  
 Albert Einstein is famously quoted as calling compound interest “the most powerful force in the universe.”
