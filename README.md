@@ -140,7 +140,8 @@ The diagram below illustrates how orthogonal persistence works in the Internet C
 - `var` is a regular in-memory variable. It **resets** when you upgrade the canister.
 - `stable var` is a persistent variable. It **retains its value** even after upgrades.
 
-<img width="1150" alt="Screenshot 2025-06-22 at 13 21 25" src="https://github.com/user-attachments/assets/10a92a76-af07-4343-a27f-10bff53baf82" />
+<img width="1150" alt="Screenshot 2025-06-22 at 13 21 25" src="https://github.com/user-attachments/assets/1e6d8b6f-58f4-4ff9-b235-660b73005a8c" />
+
 
 
 ### 💡 Compound Interest Logic
