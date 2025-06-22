@@ -70,7 +70,7 @@ By entering your canister ID, the Candid UI will load all public functions defin
 
 ## 🔄 ⏳ How sync and async execution differ on the Internet Computer
 
-![Screenshot 2025-06-22 at 11 55 53](https://github.com/user-attachments/assets/6de4a966-d052-4d72-b121-bc8f03972865)
+![Screenshot 2025-06-22 at 20 52 52](https://github.com/user-attachments/assets/ec5557db-e08c-405f-a3ba-c5daf4f6104b)
 
 This change also reflects the distinction between asynchronous and synchronous behavior in Motoko:
 
