@@ -107,7 +107,7 @@ Albert Einstein is famously quoted as calling compound interest “the most powe
 
 ## 🌐🌐 Get help for working with the Internet Computer 🌐🌐
 
-Official Developer Docs
+[Official Developer Docs](https://internetcomputer.org/)
 
 Command-line Reference
 
