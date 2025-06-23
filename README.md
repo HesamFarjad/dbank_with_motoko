@@ -2,7 +2,7 @@
 Interactive Motoko-based DFX project with Candid UI integration
 
 
-Running `dfx new dbank`**
+1. Running `dfx new dbank`**
 
 This command initializes a new Internet Computer project named `dbank`. The DFX tool sets up the project structure and creates essential files like `main.mo`, `dfx.json`, `README.md`, and frontend files such as `index.js`, `index.html`, and `logo.png`.
 
@@ -10,13 +10,13 @@ This command initializes a new Internet Computer project named `dbank`. The DFX 
 
 ---
 
-🖼️ 2. Welcome Message from DFX
+2. Welcome Message from DFX
 
 After running `dfx new`, you see a welcome banner with links to helpful documentation including the Quick Start, SDK Developer Guide, and the Motoko Language Reference.
 
 ---
 
-🖼️ 3. Starting the Local Network with dfx start
+3. Starting the Local Network with dfx start
 
 Running `dfx start` and accessing the local network**
 
@@ -24,7 +24,7 @@ This command launches the local Internet Computer replica. The output shows the 
 
 ---
 
-🖼️ 4. Deploying the Project with dfx deploy
+4. Deploying the Project with dfx deploy
 
 Running `dfx deploy` to install the canister**
 
@@ -34,7 +34,7 @@ Here, `dfx deploy` builds and installs our canisters locally. The output shows t
 
 ---
 
-🖼️ 5. Getting the Candid UI Canister ID
+5. Getting the Candid UI Canister ID
 
 Retrieving the Candid UI Canister ID**
 
@@ -44,7 +44,7 @@ The command `dfx canister id __Candid_UI` returns the ID of the built-in Candid 
 
 ---
 
-🖼️ 6. Candid UI URL Format
+6. Candid UI URL Format
 
 Browser URL to access the Candid UI**
 
@@ -55,7 +55,7 @@ http://127.0.0.1:8000/?canisterId=<CANDID-UI-CANISTER-ID>
 
 ---
 
-🖼️ 7. Pasting the Canister ID into the UI
+7. Pasting the Canister ID into the UI
 
 ![Screenshot 2025-06-22 at 20 48 26](https://github.com/user-attachments/assets/e339c85d-e0f9-4397-bcf5-bc08fa9e5984)
 
