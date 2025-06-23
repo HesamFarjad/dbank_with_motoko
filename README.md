@@ -109,10 +109,6 @@ Albert Einstein is famously quoted as calling compound interest “the most powe
 
 [Official Developer Docs](https://internetcomputer.org/)
 
-Command-line Reference
-
-Official Dfinity Forum
-
-Official Dfinity Developer Discord
+[Official Dfinity Forum](https://forum.dfinity.org/)
 
 
