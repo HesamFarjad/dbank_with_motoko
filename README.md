@@ -101,3 +101,18 @@ It uses `Time.now()` to calculate the time elapsed since the last update, and ap
 
 The adjacent diagrams help visualize the concept of reinvestment and the mathematical formula for compound interest.  
 Albert Einstein is famously quoted as calling compound interest “the most powerful force in the universe.”
+
+
+
+
+## 🌐🌐 Get help for working with the Internet Computer 🌐🌐
+
+Official Developer Docs
+
+Command-line Reference
+
+Official Dfinity Forum
+
+Official Dfinity Developer Discord
+
+
